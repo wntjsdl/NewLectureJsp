@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
+         version="6.0" metadata-complete="false">
+<!--    <servlet>-->
+<!--        <servlet-name>na</servlet-name>-->
+<!--        <servlet-class>com.newlecture.web.Nana</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>na</servlet-name>-->
+<!--        <url-pattern>/hello</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+<!--    현재 xml에서 세팅 불가-->
+<!--    <filter>-->
+<!--        <filter-name>characterEncodingFilter</filter-name>-->
+<!--        <filter-class>com.newlecture.web.filter.CharacterEncodingFilter</filter-class>-->
+<!--    </filter>-->
+<!--    <filter-mapping>-->
+<!--        <filter-name>characterEncodingFilter</filter-name>-->
+<!--        <url-pattern>/*</url-pattern>-->
+<!--    </filter-mapping>-->
+
+    <display-name>Welcome to Tomcat</display-name>
+    <description>Welcome to Tomcat</description>
+</web-app>
